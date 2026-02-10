@@ -57,7 +57,7 @@
 </div>
 
 <p align="center">
-  <i>Mis repositorios principales que mejor representan mi trabajo</i>
+  Mis repositorios principales que mejor representan mi trabajo
 </p>
 
 <br>
@@ -146,7 +146,13 @@ Juego táctico desarrollado en C++ con sistema de combate estratégico, con vari
 <br>
 
 <!-- ===================== 5) ESTADÍSTICAS GITHUB ===================== -->
-### ⚙️ &nbsp;Estadísticas GitHub
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">⚙️ Estadísticas GitHub</h2></summary>
+  </ul>
+</div>
+
 
 <p align="center">
   <a href="https://github.com/AlejandroTejero">
