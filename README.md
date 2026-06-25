@@ -30,16 +30,6 @@
 
 <br>
 
-<!-- ===================== 3) SOBRE MÍ ===================== 
-### 🎓  &nbsp;Sobre mí
-
-💻 Especializado en **backend** y desarrollo web con **Python/Django**  
-🔌 Trabajo con **APIs REST** y procesamiento de datos (JSON/XML)  
-🐧 Experiencia en **Linux** y conocimientos de redes (TCP/IP, HTTP/S, SSH)  
-🔐 Apasionado por **ciberseguridad**, **IA** y **automatización**  
-✉️ **Contacto:** atejerodelamorena@gmail.com
--->
-
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=AlejandroTejero&label=Visitas%20al%20perfil&color=0e75b6&style=plastic"
@@ -70,16 +60,19 @@
 
 ### 🏗️ [WebBuilder-TFG](https://github.com/AlejandroTejero/WebBuilder-TFG)
 
+**Generación automática de proyectos Django a partir de APIs con IA Generativa**
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM%20%2F%20IA-000000?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
 
-**Generador de sitios web con Django**
+Das la URL de cualquier API pública (JSON, XML o CSV) y el sistema genera automáticamente un proyecto Django completo y funcional, listo para desplegar. Un LLM analiza el dataset, propone la estructura del sitio y genera el código. El despliegue se automatiza con n8n y Docker.
 
-Herramienta para crear páginas web de forma visual, con plantillas personalizables, editor intuitivo y exportación automática de código limpio y optimizado, basado en los datos introducidos por URLs.
+TFG — Calificación: **9,9 · Propuesto para Matrícula de Honor**
 
 </td>
 <td width="50%" valign="top">
