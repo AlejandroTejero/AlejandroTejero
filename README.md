@@ -1,220 +1,183 @@
 <!-- ==========================================================
-     PERFIL: README.md (AlejandroTejero/AlejandroTejero)
-     Estructura optimizada y en español
+     PROFILE README — AlejandroTejero/AlejandroTejero
 =========================================================== -->
 
 <!-- ===================== 1) HEADER ===================== -->
-<h1 align="center">
-  Hola, soy Alejandro Tejero
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="saludo">
-</h1>
+<h1 align="center">Hi there, I'm Alejandro Tejero 👋</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+Ingeniería+Telemática;Backend+con+Python+y+Django;Ciberseguridad+·+IA+·+Automatización;APIs+REST+·+Linux+·+Redes&center=true&width=600&height=50"
-      alt="typing"
-    >
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=650&lines=Telecommunications+Engineer+%7C+Telematics;Backend+Developer+%C2%B7+Python+%26+Django;Interested+in+AI%2C+Cybersecurity+%26+Automation;REST+APIs+%C2%B7+Linux+%C2%B7+Networking"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
-<hr/>
-
-<!-- ===================== 2) DESCRIPCIÓN CORTA ===================== -->
-<h4 align="center">
-  Estudiante de Ingeniería Telemática con conocimientos en desarrollo de aplicaciones web en
-  Python/Django y procesamiento de datos desde APIs (JSON/XML). Fundamentos de redes (TCP/IP, HTTP/HTTPS,
-  SSH) y experiencia con varios lenguajes de programación. Trabajo en entornos Linux y tengo interés en campos
-  como ciberseguridad, IA y automatización de procesos.
-</h4>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlejandroTejero&label=Profile%20views&color=2E86AB&style=flat" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/alejandro-tejero-de-la-morena-38b97a383/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2E86AB?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:atejerodelamorena@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-2E86AB?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <br>
+
+<!-- ===================== 2) ABOUT ME ===================== -->
+## About Me
+
+| | |
+|---|---|
+| 🎓 **Background** | Telecommunications Engineer (Telematics specialization). |
+| 🏆 **Final Degree Project** | **WebBuilder-TFG** — Grade **9.9**, proposed for **Honors (Matrícula de Honor)**. |
+| 💻 **Focus** | Backend web development with **Python / Django**, and data processing from public APIs (JSON/XML). |
+| 🌐 **Foundations** | Solid networking background — TCP/IP, IPv4/IPv6, OSPF, HTTP/HTTPS, SSH — analyzed with tools like Wireshark. |
+| 🐧 **Environment** | Comfortable working day-to-day in **Linux**. |
+| 🚀 **Interests** | Cybersecurity, Artificial Intelligence and process automation. |
+| 📍 **Open to** | Backend / software development roles, and opportunities in AI-assisted engineering or cybersecurity. |
+
+<br>
+
+<!-- ===================== 3) FEATURED PROJECTS ===================== -->
+## 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ [WebBuilder-TFG](https://github.com/AlejandroTejero/WebBuilder-TFG)
+**Automatic Django project generation from public APIs, powered by Generative AI**
+
+Given the URL of any public API (JSON, XML or CSV), the system analyzes the dataset, proposes a field mapping and automatically generates a complete, deployable Django project based on the user's interaction. An LLM proposes the site structure and generates the code, and deployment is automated with n8n and Docker.
+
+🏆 **Final Degree Project — Grade: 9.9, proposed for Honors**
+
+`Python` `Django` `Docker` `n8n` `LLM / Generative AI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 [GameRank](https://github.com/AlejandroTejero/GameRank)
+**Video game ranking platform**
+
+Django web app integrated with the RAWG API to discover, rate and compare video games. Includes ratings, comments, likes/dislikes, follow system and dynamic views powered by HTMX.
+
+`Python` `Django` `HTMX` `REST API` `JSON`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 [Invernadero](https://github.com/AlejandroTejero/Invernadero)
+**Object-oriented greenhouse simulator (C++)**
+
+Terminal-based simulation of an automated greenhouse with sensors, actuators and user roles, including a login system and real-time control of temperature, humidity and light, with file-based persistence.
+
+`C++` `OOP` `File Persistence`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚔️ [TacticalBattle](https://github.com/AlejandroTejero/TacticalBattle)
+**Turn-based strategy game**
+
+Tactical game built in C++ with a strategic combat system, multithreaded AI opponents and character management with distinct abilities.
+
+`C++` `OOP` `Multithreading`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ===================== 4) ADDITIONAL REPOSITORIES ===================== -->
+## 📂 Additional Repositories
+
+Coursework and practice repositories that complement the projects above:
+
+| Repository | Description | Stack |
+|---|---|---|
+| [AplicacionesTelematicas](https://github.com/AlejandroTejero/AplicacionesTelematicas) | Coursework on telematic applications: client/server communication, web technologies and protocol-level exercises. | `CSS` `Web` |
+| [Python](https://github.com/AlejandroTejero/Python) | Collection of Python exercises and scripts covering data processing, scripting and algorithm practice. | `Python` |
+| [Pascal](https://github.com/AlejandroTejero/Pascal) | Introductory programming exercises and algorithm fundamentals implemented in Pascal. | `Pascal` |
+
+<br>
+
+<!-- ===================== 5) GITHUB STATS ===================== -->
+## ⚙️ GitHub Stats
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=AlejandroTejero&label=Visitas%20al%20perfil&color=0e75b6&style=plastic"
-    alt="Visitas al perfil"
+    height="165em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroTejero&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    alt="GitHub Stats"
+  />
+  <img
+    height="165em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroTejero&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    alt="Top Languages"
   />
 </p>
 
-<br>
-
-<!-- ===================== 4) PROYECTOS DESTACADOS ===================== -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">📌 Proyectos destacados</h2></summary>
-  </ul>
-</div>
-
 <p align="center">
-  Mis repositorios principales que mejor representan mi trabajo
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroTejero&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 <br>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<!-- ===================== 6) TECH STACK ===================== -->
+## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,html,css,js,cpp,c,go,linux,bash,git,github,gitlab,vscode,pycharm&perline=9" alt="Tech stack" />
+</p>
 
-### 🏗️ [WebBuilder-TFG](https://github.com/AlejandroTejero/WebBuilder-TFG)
+**Languages:** Python · C++ · C · Pascal · JavaScript · HTML/CSS
 
-**Generación automática de proyectos Django a partir de APIs con IA Generativa**
+**Backend & Data:** Django · REST APIs · JSON · XML · SQL · HTMX
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM%20%2F%20IA-000000?style=for-the-badge&logo=openai&logoColor=white" />
+**DevOps & Tools:** Docker · n8n · Git · GitHub · Linux · Bash
 
-</div>
+**Networking & Protocols:** TCP/IP · IPv4/IPv6 · OSPF · HTTP/HTTPS · SSH · Wireshark
 
-Das la URL de cualquier API pública (JSON, XML o CSV) y el sistema genera automáticamente un proyecto Django completo y funcional, listo para desplegar. Un LLM analiza el dataset, propone la estructura del sitio y genera el código. El despliegue se automatiza con n8n y Docker.
-
-TFG — Calificación: **9,9 · Propuesto para Matrícula de Honor**
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🎮 [GameRank](https://github.com/AlejandroTejero/GameRank)
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-
-</div>
-
-**Plataforma de clasificación de videojuegos**
-
-Aplicación web integrada con RAWG API para descubrir, valorar y comparar videojuegos. Incluye sistema completo de reviews, rankings dinámicos y búsqueda avanzada.
-
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🌱 [Invernadero](https://github.com/AlejandroTejero/Invernadero)
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-
-</div>
-
-**Simulador de invernadero con IoT**
-
-Sistema orientado a objetos que simula sensores, actuadores y roles en un invernadero automatizado. Simulación en tiempo real con control de temperatura, humedad y luz.
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### ⚔️ [TacticalBattle](https://github.com/AlejandroTejero/TacticalBattle)
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Lógica_de_Juego-8B0000?style=for-the-badge&logo=gameandwatch&logoColor=white" />
-<img src="https://img.shields.io/badge/POO-4B0082?style=for-the-badge&logoColor=white" />
-
-</div>
-
-**Juego de estrategia por turnos**
-
-Juego táctico desarrollado en C++ con sistema de combate estratégico, con varios oponentes multihilo y gestión de personajes con diferentes habilidades.
-
-</td>
-</tr>
-</table>
+**AI & Automation:** LLM-assisted code generation · workflow automation with n8n
 
 <br>
 
-<!-- ===================== 5) ESTADÍSTICAS GITHUB ===================== -->
+<!-- ===================== 7) CURRENTLY LEARNING ===================== -->
+## 🌱 Currently Learning & Focus Areas
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">⚙️ Estadísticas GitHub</h2></summary>
-  </ul>
-</div>
-
+Expanding my technical profile towards **cybersecurity, applied AI and process automation**, building on my networking and backend foundations.
 
 <p align="center">
-  <a href="https://github.com/AlejandroTejero">
-    <img
-      height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroTejero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
-      alt="Estadísticas GitHub"
-    />
-    <img
-      height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroTejero&layout=compact&langs_count=8&theme=algolia"
-      alt="Lenguajes más usados"
-    />
-  </a>
+  <img src="https://img.shields.io/badge/Cybersecurity-2E86AB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-2E86AB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Process_Automation-2E86AB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced_Django-2E86AB?style=for-the-badge&logoColor=white" />
 </p>
 
 <br>
 
-<!-- ===================== 6) TECNOLOGÍAS ===================== -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">🛠️ Tecnologías</h2></summary>
-  </ul>
-</div>
+<!-- ===================== 8) CONTACT ===================== -->
+## 📬 Contact
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=python,django,postgres,mysql,html,css,js,cpp,c,go,linux,bash,git,github,gitlab,vscode,pycharm&perline=9"
-      alt="Stack tecnológico"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <b>Redes y Protocolos:</b> TCP/IP · IPv4/IPv6 · OSPF · HTTP/HTTPS · SSH · Wireshark<br>
-  <b>Datos y Otros:</b> JSON · XML · SQL · MATLAB · Pascal
-</p>
-
-<br>
-
-<!-- ===================== 7) CONTACTO ===================== -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">📬 Contacto</h2></summary>
-  </ul>
-</div>
-
-<p align="center">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/alejandro-tejero-de-la-morena-38b97a383/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
-
-  <!-- GitHub -->
   <a href="https://github.com/AlejandroTejero" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
-
-  <!-- Gmail -->
   <a href="mailto:atejerodelamorena@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="48" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="45" />
   </a>
 </p>
 
-<br>
-
-<p align="center">
-  <i>Gracias por visitar mi perfil</i>
-</p>
+<p align="center"><i>Thanks for visiting my profile</i></p>
