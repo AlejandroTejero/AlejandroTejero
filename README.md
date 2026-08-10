@@ -124,9 +124,6 @@ Coursework and practice repositories that complement the projects above:
   />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroTejero&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
 
 <br>
 
