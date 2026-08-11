@@ -2,7 +2,7 @@
 
 # Alejandro Tejero
 
-[![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=650&lines=Ingeniero+de+Telecomunicaci%C3%B3n;Backend+Developer+%C2%B7+Python+%26+Django;Interesado+en+Ciberseguridad+e+IA)](https://github.com/AlejandroTejero)
+[![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=650&lines=Ingeniero+de+Telecomunicaciones;Backend+Developer+%C2%B7+Python+%26+Django;Interesado+en+Ciberseguridad+e+IA)](https://github.com/AlejandroTejero)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3A3F44?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-tejero-de-la-morena-38b97a383/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3A3F44?style=flat&logo=googlechrome&logoColor=white)](https://alejandrotejero.github.io)
