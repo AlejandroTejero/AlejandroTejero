@@ -1,104 +1,71 @@
-<!-- ==========================================================
-     PROFILE README — AlejandroTejero/AlejandroTejero
-=========================================================== -->
+[Español](README.es.md)
 
-<!-- ===================== 1) HEADER ===================== -->
-<h1 align="center">Hi there, I'm Alejandro Tejero 👋</h1>
+# Alejandro Tejero
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=650&lines=Telecommunications+Engineer+%7C+Telematics;Backend+Developer+%C2%B7+Python+%26+Django;Interested+in+AI%2C+Cybersecurity+%26+Automation;REST+APIs+%C2%B7+Linux+%C2%B7+Networking"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+[![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3A3F44&center=true&vCenter=true&width=650&lines=Telematics+Engineer;Backend+Developer+%C2%B7+Python+%26+Django;Cybersecurity+%26+AI+enthusiast)](https://github.com/AlejandroTejero)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlejandroTejero&label=Profile%20views&color=2E86AB&style=flat" alt="Profile views" />
-  <a href="https://www.linkedin.com/in/alejandro-tejero-de-la-morena-38b97a383/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2E86AB?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:atejerodelamorena@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-2E86AB?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3A3F44?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-tejero-de-la-morena-38b97a383/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3A3F44?style=flat&logo=googlechrome&logoColor=white)](https://alejandrotejero.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-3A3F44?style=flat&logo=github&logoColor=white)](https://github.com/AlejandroTejero)
+[![Email](https://img.shields.io/badge/Email-3A3F44?style=flat&logo=gmail&logoColor=white)](mailto:atejerodelamorena@gmail.com)
 
-<br>
+---
 
-<!-- ===================== 2) ABOUT ME ===================== -->
-## About Me
+## About
 
-| | |
-|---|---|
-| 🎓 **Background** | Telecommunications Engineer (Telematics specialization). |
-| 🏆 **Final Degree Project** | **WebBuilder-TFG** — Grade **9.9**, proposed for **Honors (Matrícula de Honor)**. |
-| 💻 **Focus** | Backend web development with **Python / Django**, and data processing from public APIs (JSON/XML). |
-| 🌐 **Foundations** | Solid networking background — TCP/IP, IPv4/IPv6, OSPF, HTTP/HTTPS, SSH — analyzed with tools like Wireshark. |
-| 🐧 **Environment** | Comfortable working day-to-day in **Linux**. |
-| 🚀 **Interests** | Cybersecurity, Artificial Intelligence and process automation. |
-| 📍 **Open to** | Backend / software development roles, and opportunities in AI-assisted engineering or cybersecurity. |
+Telematics Engineering graduate from Universidad Rey Juan Carlos, focused on backend development and data-driven systems. My final thesis, WebBuilder-TFG, combines Django with generative AI to auto-generate deployable web applications from any public API — graded 9.9 and nominated for Honors. I recently completed an engineering internship at Bosch, working with production data pipelines, dashboards and process automation, and I'm currently building on that foundation with cybersecurity, cloud and AI-assisted engineering.
 
-<br>
+---
 
-<!-- ===================== 3) FEATURED PROJECTS ===================== -->
-## 📌 Featured Projects
+## Professional Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Engineering Internship — Robert Bosch Spain S.L.U.**
+*May 2026 – Aug 2026*
 
-### 🏗️ [WebBuilder-TFG](https://github.com/AlejandroTejero/WebBuilder-TFG)
-**Automatic Django project generation from public APIs, powered by Generative AI**
+Analysis of large-scale production data to identify patterns and propose process improvements. Design of tables, relationships and queries for production databases, including data cleaning. Development of Excel/Power BI dashboards for KPI tracking. Management of SAP records supporting the team's processes.
 
-Given the URL of any public API (JSON, XML or CSV), the system analyzes the dataset, proposes a field mapping and automatically generates a complete, deployable Django project based on the user's interaction. An LLM proposes the site structure and generates the code, and deployment is automated with n8n and Docker.
+---
 
-🏆 **Final Degree Project — Grade: 9.9, proposed for Honors**
+## Featured Projects
 
-`Python` `Django` `Docker` `n8n` `LLM / Generative AI`
+### [WebBuilder-TFG](https://github.com/AlejandroTejero/WebBuilder-TFG) ![grade](https://img.shields.io/badge/9.9%20%C2%B7%20Honors-854F0B?style=flat&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+Converts any public API (JSON/XML/CSV) into a complete, deployable Django project. An LLM analyzes the dataset, proposes the data schema and generates the code. Includes Google/GitHub OAuth, an AI-assisted code editor, site versioning and automated deployment with container monitoring. Presented at URJC's 1st Conference on Free Software and AI.
 
-### 🎮 [GameRank](https://github.com/AlejandroTejero/GameRank)
-**Video game ranking platform**
+![Python](https://img.shields.io/badge/Python-3A3F44?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-3A3F44?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3A3F44?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3A3F44?style=flat&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-3A3F44?style=flat&logo=n8n&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-3A3F44?style=flat&logo=openai&logoColor=white)
 
-Django web app integrated with the RAWG API to discover, rate and compare video games. Includes ratings, comments, likes/dislikes, follow system and dynamic views powered by HTMX.
+### [GameRank](https://github.com/AlejandroTejero/GameRank) ![grade](https://img.shields.io/badge/9.9%20%C2%B7%20Honors-854F0B?style=flat&logoColor=white)
 
-`Python` `Django` `HTMX` `REST API` `JSON`
+Video game catalog and ranking platform aggregating data from multiple sources (XML + REST APIs). Ratings, comments, a like/dislike system and user game tracking, with dynamic comment loading via HTMX.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+![Python](https://img.shields.io/badge/Python-3A3F44?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-3A3F44?style=flat&logo=django&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-3A3F44?style=flat&logo=htmx&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-3A3F44?style=flat&logo=postman&logoColor=white)
 
-### 🌱 [Invernadero](https://github.com/AlejandroTejero/Invernadero)
-**Object-oriented greenhouse simulator (C++)**
+### [Greenhouse Simulator](https://github.com/AlejandroTejero/Invernadero)
 
-Terminal-based simulation of an automated greenhouse with sensors, actuators and user roles, including a login system and real-time control of temperature, humidity and light, with file-based persistence.
+Object-oriented terminal simulator for an automated greenhouse: sensors, actuators, user roles and login, real-time control of temperature, humidity and light, with file-based persistence.
 
-`C++` `OOP` `File Persistence`
+![C++](https://img.shields.io/badge/C%2B%2B-3A3F44?style=flat&logo=cplusplus&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-3A3F44?style=flat&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+### [Tactical Battle](https://github.com/AlejandroTejero/TacticalBattle)
 
-### ⚔️ [TacticalBattle](https://github.com/AlejandroTejero/TacticalBattle)
-**Turn-based strategy game**
+Turn-based tactical combat simulator with a client-server architecture. The server manages the matchmaking lobby, handles simultaneous matches and tracks rankings.
 
-Tactical game built in C++ with a strategic combat system, multithreaded AI opponents and character management with distinct abilities.
+![Python](https://img.shields.io/badge/Python-3A3F44?style=flat&logo=python&logoColor=white)
+![TCP Sockets](https://img.shields.io/badge/TCP%20Sockets-3A3F44?style=flat&logoColor=white)
+![Client-Server](https://img.shields.io/badge/Client--Server-3A3F44?style=flat&logoColor=white)
 
-`C++` `OOP` `Multithreading`
+---
 
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ===================== 4) ADDITIONAL REPOSITORIES ===================== -->
-## 📂 Additional Repositories
-
-Coursework and practice repositories that complement the projects above:
+## Other Repositories
 
 | Repository | Description | Stack |
 |---|---|---|
@@ -106,75 +73,58 @@ Coursework and practice repositories that complement the projects above:
 | [Python](https://github.com/AlejandroTejero/Python) | Collection of Python exercises and scripts covering data processing, scripting and algorithm practice. | `Python` |
 | [Pascal](https://github.com/AlejandroTejero/Pascal) | Introductory programming exercises and algorithm fundamentals implemented in Pascal. | `Pascal` |
 
-<br>
+---
 
-<!-- ===================== 5) GITHUB STATS ===================== -->
-## ⚙️ GitHub Stats
-
-<p align="center">
-  <img
-    height="165em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroTejero&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
-    alt="GitHub Stats"
-  />
-  <img
-    height="165em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroTejero&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"
-    alt="Top Languages"
-  />
-</p>
-
-
-<br>
-
-<!-- ===================== 6) TECH STACK ===================== -->
-## 🛠️ Tech Stack
+## GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,html,css,js,cpp,c,go,linux,bash,git,github,gitlab,vscode,pycharm&perline=9" alt="Tech stack" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroTejero&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FAC775&text_color=C9D1D9&icon_color=8B949E" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroTejero&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FAC775&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
-**Languages:** Python · C++ · C · Pascal · JavaScript · HTML/CSS
+---
 
-**Backend & Data:** Django · REST APIs · JSON · XML · SQL · HTMX
+## Tech Stack
 
-**DevOps & Tools:** Docker · n8n · Git · GitHub · Linux · Bash
+**Languages**
 
-**Networking & Protocols:** TCP/IP · IPv4/IPv6 · OSPF · HTTP/HTTPS · SSH · Wireshark
+![Python](https://img.shields.io/badge/Python-3A3F44?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-3A3F44?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-3A3F44?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3A3F44?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-3A3F44?style=flat&logo=javascript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-3A3F44?style=flat&logo=go&logoColor=white)
+![Pascal](https://img.shields.io/badge/Pascal-3A3F44?style=flat&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell%20Scripting-3A3F44?style=flat&logo=gnubash&logoColor=white)
 
-**AI & Automation:** LLM-assisted code generation · workflow automation with n8n
+**Backend & Databases**
 
-<br>
+![Django](https://img.shields.io/badge/Django-3A3F44?style=flat&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-3A3F44?style=flat&logo=postman&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3A3F44?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-3A3F44?style=flat&logo=mysql&logoColor=white)
 
-<!-- ===================== 7) CURRENTLY LEARNING ===================== -->
-## 🌱 Currently Learning & Focus Areas
+**Tools & Systems**
 
-Expanding my technical profile towards **cybersecurity, applied AI and process automation**, building on my networking and backend foundations.
+![Linux](https://img.shields.io/badge/Linux-3A3F44?style=flat&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-3A3F44?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-3A3F44?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-3A3F44?style=flat&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3A3F44?style=flat&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-3A3F44?style=flat&logo=n8n&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-3A3F44?style=flat&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-3A3F44?style=flat&logo=pycharm&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-2E86AB?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-2E86AB?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Process_Automation-2E86AB?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Advanced_Django-2E86AB?style=for-the-badge&logoColor=white" />
-</p>
+**Networking**
 
-<br>
+TCP/IP · IPv4/IPv6 · OSPF · HTTP/HTTPS · SSH · Wireshark
 
-<!-- ===================== 8) CONTACT ===================== -->
-## 📬 Contact
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alejandro-tejero-de-la-morena-38b97a383/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/AlejandroTejero" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:atejerodelamorena@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="45" />
-  </a>
-</p>
+## Currently Focused On
 
-<p align="center"><i>Thanks for visiting my profile</i></p>
+Deepening my skills in cybersecurity, cloud infrastructure and AI-assisted engineering, while working towards an English B2 certification.
+
+---
+
+*Thanks for visiting my profile*
